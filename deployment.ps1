@@ -13,9 +13,9 @@ Switch($SqlInstance)
 {
 
 1{
-$SqlInstance = 'DWReadWriteServerTest'
+$SqlInstance = ''
 }
-2{$SqlInstance = 'DWDiscovery'
+2{$SqlInstance = ''
 } 
 }
 
